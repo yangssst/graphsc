@@ -1,0 +1,9 @@
+# python=3.9 cuda=12.4 RTX3090
+networkx==3.2.1
+numpy==2.0.2
+pandas==2.3.0
+scikit-learn==1.6.1
+scipy==1.13.1
+torch==2.6.0+cu124
+torchaudio==2.6.0+cu124
+torchvision==0.21.0+cu124
